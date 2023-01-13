@@ -28,7 +28,7 @@ Basic template for ili9341 driver and esp32.
 | T DIN (MOSI) |  gpio 11 |
 | T CS         |  gpio 46 |
 | T CLK        |  gpio 12 |
-| SDO (MISO)   |  NC      |
+| SDO (MISO)   |  NC(-1)  |
 | LED          |  NC      |
 | SCK          |  gpio 12 |
 | SDI (MOSI)   |  gpio 11 |
